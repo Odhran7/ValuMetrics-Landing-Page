@@ -4,13 +4,13 @@
 
 <br/>
 <div align="center">
-  <a href="https://twitter.com/littlesticksdev">
+  <a href="v">
   <img src="assets/twitter-badge.svg" alt="Follow Little Sticks on Twitter"/>
 </a>
-  <a href="https://littlesticks.lemonsqueezy.com/checkout/buy/ce15f246-6ffb-417d-b380-0745aeef69a9">
+  <a href="">
     <img src="assets/sponsor-badge.svg" alt="Sponsor This Repo" />
   </a>
-  <a href="https://littlesticks.dev/discord">
+  <a href="">
     <img src="assets/discord-badge.svg" alt="Join our Discord" />
   </a>
   
