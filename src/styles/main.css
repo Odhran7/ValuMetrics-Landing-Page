@@ -114,3 +114,10 @@ p, li {
       opacity: 0;
   }
 }
+
+#black-bg {
+  background-color: black;
+  border-radius: 30px;
+  padding: 5px;
+  opacity: 0.6;
+}
